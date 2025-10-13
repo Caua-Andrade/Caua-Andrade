@@ -24,7 +24,6 @@ Me chamo Cauã Andrade da Silva, tenho 18 anos e sou natural de São Paulo. Conc
 ---
 
 ### 🛠️ Linguagens e Tecnologias
-
  
 <img 
     align="left" 
