@@ -120,7 +120,7 @@ Me chamo Cauã Andrade da Silva, tenho 19 anos e sou natural de São Paulo. Conc
 
 <br/>
 <br/>
-
+<!--
 ### 📊 Estatísticas
 
 <img 
@@ -129,3 +129,4 @@ Me chamo Cauã Andrade da Silva, tenho 19 anos e sou natural de São Paulo. Conc
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Caua-Andrade&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br" 
 />
+-->
