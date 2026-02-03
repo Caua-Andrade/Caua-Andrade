@@ -35,9 +35,8 @@ Me chamo Cauã Andrade da Silva, tenho 19 anos e sou natural de São Paulo. Conc
 />
 <img 
     align="left" 
-    alt="Spring"
-    
-    title="Spring" 
+    alt="Spring" 
+    title="Spring"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
