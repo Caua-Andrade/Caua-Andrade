@@ -1,4 +1,4 @@
-# 😼 Cauã Andrade
+# 😼Cauã Andrade
 
 **`Backend Developer`**
 
