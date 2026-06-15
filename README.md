@@ -22,7 +22,7 @@ Me chamo Cauã Andrade da Silva, tenho 19 anos e sou natural de São Paulo. Conc
 </p>
 
 ---
-
+<!--
 ## 🌐 Meu Portfólio
 
 Um site simples, direto e visual onde apresento meus principais projetos 💻, habilidades 🚀 e evolução como desenvolvedor.  
@@ -31,7 +31,7 @@ Aqui você pode explorar aplicações reais que desenvolvi, com foco em prática
 👉 Acesse: https://attachment-asset-manager--cauaandsilva.replit.app/
 
 ---
-
+-->
 ### 🛠️ Linguagens e Tecnologias
  
 <img 
