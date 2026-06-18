@@ -32,7 +32,7 @@ Aqui você pode explorar aplicações reais que desenvolvi, com foco em prática
 
 ---
 -->
-# ☕ Java Core
+### ☕ Java Core
 
 Minha plataforma de ensino de Java, desenvolvida para reunir conteúdos que vão dos fundamentos aos tópicos mais avançados da linguagem, com aulas organizadas, exemplos práticos e foco no aprendizado.
 
