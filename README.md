@@ -1,6 +1,6 @@
 # 😼 Cauã Andrade
 
-**`Backend Developer`**
+**`Fullstack Developer`**
 
 Me chamo Cauã Andrade da Silva, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio concomitante ao curso técnico em informática para internet. Atualmente, estou cursando Engenharia de Software e estou no 3º período. Entusiasta quando o assunto é tecnoligia. Gosto de trabalhar com Java, mas não me considero um Javeiro pois encaro somente como uma ferramenta para alcançar um objetivo.
 
